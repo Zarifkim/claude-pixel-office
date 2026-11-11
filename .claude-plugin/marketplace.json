@@ -1,0 +1,6 @@
+{
+  "name": "claude-pixel-office",
+  "owner": { "name": "Zarifkim" },
+  "description": "Pixel Office: an isometric pixel-art office where Claude Code agents work at desks.",
+  "plugins": [{ "name": "pixel-office", "source": "./" }]
+}
